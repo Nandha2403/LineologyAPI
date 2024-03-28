@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lineology-apis-413413",
+  "private_key_id": "5e90da9ce11564ef47576422b935a58bf66aa7d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZqzUOBr+iNxG2\nbQLlKemHQ/HjdgeyjNVpGR6gNh6FyNemRdvD2SMWXthdhX2yuy3amPxkGVPza573\nP5VuP4mIqS4cM2xtjkIrFHKICV+BcR1qRuySdNXRrkln5UKKaVWeKZ+11eOjCKk5\nKj5P9E/Y3C4BpwX0txqCxjD7GXPaaDwvNyEeUcdnERwm6qt5gx6Jd2cY3xhrg7+Z\nKNaey61hL6uwk5PNkIv9ZHaR0mL9baQekoUGX2xFRBUylCKVVG48jvXm3G5ZVOQT\n5uvfVVGU1Mp0ldxtG7e2yRa7JBpI/rSXQZ/N8mlrvmylUJqoyJ8P0iBjD1dgqYHl\nXUrBrFpZAgMBAAECggEACCOoaRj8QTn3L/fBUhWoQXo7US68kLMGt2Z8sE+5wjWt\nh66IzljgIKHlDBE17zEj4K7UED+otZtefz8ZzLy0PT+bRWtwWGPnikIaWscj8ryK\ntarHhZ34EV5HqSqH25JfBNooWlWwTIxCPKydViLL+g9Yqo/m73zJ0V5NHlSYMhBe\nUO0aaQoWeg8+yWD6z6cTe+wj87EbQKgQqQBA/y0KU6u7MBXhxrSvupQT9CA4svhY\nCcDVuttLcl+kC+x3/Qa+DqsVCGxZY4s64RfVOj4rclfR1Dw9ngxi6Yl41qPT3rY5\nafd4Y2apiUXVLgIG+z4XtdU6hZizlJQPGyA/ZylmwQKBgQD64426Ksj1NVAEBkyZ\n42SIEUzSoAlpIKP+3psjJtCl2JSfjBIwYXH6110nE/1wiZc5tJLxGzorx5qyWJGn\n4ADzib5ZZV6Z9aQKNaDBXH1zxayp4Te+B96vVuIeZRkQBam2mspjXUVDUKYd0/vY\nLdDMSlWV2d/HCw2MA9uvWkVhQQKBgQDeGmcZIzIqzYmxT0WHhkdrKBG7GgqWi+HZ\nI9yBc4LKxCgZupk/HLs3X70PWyG7k4ZKpaj6yBvONCL2pawLlg3v8Qwbs8OABT5k\nwec6UPkKMRApPYfkrO0EnzgPPbLspMKZmnBvXca8XquRE7jPdTOo1lZqCj1fpsaM\nk2Vs0qQbGQKBgAgO8QluwF+n47cNYL58oEkCjT4ip8q5oqrYCZGaeI8rIrLxM9Bc\nAOY2rqZHrRdFRBc1ZpbZ8gdf9OcPkzYaKs2nufZzHBPD4Q325P/w8ZKbYc1fD4RK\nCmwFVWP2iVSLagUUebWxVD0yRPOmUGuEJTW6mX8jrV1eTIQXx6GdO6dBAoGBAK0a\nGtxmqATgKL6+r8wOhb8ofZk7lKD86MsZvhROeNObyj0zR5j+xZNE1M8REdtmATZQ\nosDCEZnG3LErMknda4NkdTFqC6bNb3GMBrFWxqKA1r2trSo29IuzpDeMuNTjHKAm\n1BaYGfpaNpFds55NFDQ0ySjgTjEshHavsk78ZNaRAoGBAPf4Gkf6Mv+SdYfOotnz\nclvwuaJ+9aAgtTCQIFiE3Dg8AhPwF9X5S5fcSGOGQG5Gr/T6dxJAnbQ5LVEBGyDs\nESYoBqHN20UR2CFjqjUMMoxdr+q8b774LoGe7zJi8zjfzB+PVODaseDl8vSpGPBN\nx5EXXlGSv3gi5Q8ojvHhEILT\n-----END PRIVATE KEY-----\n",
+  "client_email": "tarotcardsdata@lineology-apis-413413.iam.gserviceaccount.com",
+  "client_id": "100287716871989793664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tarotcardsdata%40lineology-apis-413413.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
